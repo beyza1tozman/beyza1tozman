@@ -1,3 +1,4 @@
 ## Hi!
 
-- Blog: [beyzatozman.netlify.app](https://beyzatozman.netlify.app/)
+- Blog: [beyza tozman blog](https://beyzatozman.netlify.app/)
+- Portfolio: [beyza tozman portfolio](https://beyzatozman-portfolio.netlify.app/)
